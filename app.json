@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "e5a06fbd-fd5b-45cc-b10a-658da47cc928"
+      }
+    },
+    "owner": "shotam"
   }
 }
